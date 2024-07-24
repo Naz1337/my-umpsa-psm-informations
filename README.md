@@ -80,7 +80,7 @@
 4. **Send Link to SV**: Supervisor fills out their section and submits.
 5. **Coordinator Approval**: Wait for the PSM coordinator to approve the application.
 
-- [Google Form Link](#)
+- [Google Form Link (Check Briefing Document in Whatsapp Group)](#)
 
 ---
 
